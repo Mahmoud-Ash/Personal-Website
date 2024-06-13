@@ -1,0 +1,125 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color:#80A895 ;
+    color: #1B2430;
+	margin: 0%;
+	padding: 8px;
+	line-height: 2;
+	
+}
+
+
+hr {
+    border-style: dotted none none;
+    width: 80px;
+    border-width: 10px;
+    margin: 100px auto;
+    color: whitesmoke  ;
+}
+
+
+img {
+    height: 250px;
+}
+
+a{
+	margin: 0px 20px;
+}
+
+.skill-row{
+	width: 70%;
+	margin: 100px auto 200px;
+	text-align: left;
+}
+
+.web-dev-image {
+	float: left;
+	margin-right: 20px;
+}
+
+.chess-image {
+	float: right;
+	margin-left: 20px;
+}
+
+.back-ground {
+	position: relative;
+	width: 80%;
+	margin: 100px auto 0 ;
+	padding-bottom: 50px;
+	background-color:#dadada	 ;
+	}
+
+
+.name {
+font-family: Dancing Script,cursive;
+font-size: 70px;	
+padding: 100px 0 50px;}
+
+.top-container {
+	padding-bottom: 100px;
+}
+
+.footer {
+	margin: 20px auto 10px;
+}
+
+
+.leaf3 {
+	position: absolute;
+	top: 2550px;		
+	right: 50px;
+	height: 300px;
+	z-index: 1;		
+}
+
+.leaf4 {
+	position: absolute;
+	top: 0px;
+	left: 20px;
+	height: 350px;
+	z-index: 1;
+}
+
+/*
+.dev-paragraph{
+	clear: left;
+}
+
+.chess-paragraph{
+	clear: right;
+}
+*/
+
+
+.btn {
+	background: #80A895;
+	background-image: -webkit-linear-gradient(top, #80A895, #80A895);
+	background-image: -moz-linear-gradient(top, #80A895, #80A895);
+	background-image: -ms-linear-gradient(top, #80A895, #80A895);
+	background-image: -o-linear-gradient(top, #80A895, #80A895);
+	background-image: linear-gradient(to bottom, #80A895, #80A895);
+	-webkit-border-radius: 12;
+	-moz-border-radius: 12;
+	border-radius: 12px;
+	font-family: Georgia;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	margin: 50px auto;
+
+  }
+  
+  .btn:hover {
+	background: #80a895;
+	background-image: -webkit-linear-gradient(top, #80a895, #93b3a3);
+	background-image: -moz-linear-gradient(top, #80a895, #93b3a3);
+	background-image: -ms-linear-gradient(top, #80a895, #93b3a3);
+	background-image: -o-linear-gradient(top, #80a895, #93b3a3);
+	background-image: linear-gradient(to bottom, #80a895, #93b3a3);
+	text-decoration: none;
+  }
+ 
